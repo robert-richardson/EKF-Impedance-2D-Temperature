@@ -1,5 +1,5 @@
-Temperature Estimation via Impedance and a 2-D Spectral-Galerkin Model 
-======================================================================
+Temperature Estimation via Impedance and a 2-D Thermal Model 
+============================================================
 
 <img src="GraphicalAbstract.png" width="775">
 
