@@ -23,7 +23,6 @@ Feel free to email the authors with any questions:
 
 NOTE
 ====
-Code is forthcoming!!  
 Code for Part I of this paper is available [here][4] 
 
 [1]: http://arxiv.org
