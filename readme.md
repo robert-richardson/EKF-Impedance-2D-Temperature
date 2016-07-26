@@ -82,6 +82,6 @@ please read the `LICENSE.txt` file for more information.
 [5]: http://www.sciencedirect.com/science/article/pii/S0378775316308151
 [6]: https://github.com/robert-richardson/Spectral-Thermal-Model-2D
 
-[7] https://github.com/robert-richardson/EKF-Impedance-2D-Temperature/archive/master.zip
+[7]: https://github.com/robert-richardson/EKF-Impedance-2D-Temperature/archive/master.zip
 [8]: https://git-scm.com/
 
