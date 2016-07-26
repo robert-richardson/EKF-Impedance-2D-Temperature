@@ -5,12 +5,6 @@ Temperature Estimation via Impedance and a 2-D Thermal Model
 
 This repository contains the Matlab source code to appy an Extended Kalman Filter to monitor the 2-D temperature distribution of a 32113 lithium iron phosphate cell using single frequency electrochemical impedance measurements. 
 
-An accompanying paper for this code entitled
-"On-board monitoring of 2-D spatially-resolved temperatures
-in cylindrical lithium-ion batteries: Part II. State estimation via impedance-based temperature sensing"
-has been submitted for publication in the Journal of Power Sources.
-A preprint for this paper will be made available on [arxiv.org][1] shortly. 
-
 This code accompanies the following paper:
 Robert R. Richardson, Shi Zhao, David A. Howey, [On-board monitoring of 2-D spatially-resolved temperatures in cylindrical lithium-ion batteries: Part II. State estimation via impedance-based temperature sensing][4], Journal of Power Sources, 2016.
 
