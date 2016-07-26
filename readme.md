@@ -11,7 +11,13 @@ in cylindrical lithium-ion batteries: Part II. State estimation via impedance-ba
 has been submitted for publication in the Journal of Power Sources.
 A preprint for this paper will be made available on [arxiv.org][1] shortly. 
 
-I would ask that you cite this paper if you want to use this code for your own research.
+This code accompanies the following paper:
+Robert R. Richardson, Shi Zhao, David A. Howey, [On-board monitoring of 2-D spatially-resolved temperatures in cylindrical lithium-ion batteries: Part II. State estimation via impedance-based temperature sensing][5], Journal of Power Sources, 2016.
+
+I would ask that you cite this paper if you want to use this code for 
+your own research.
+Note that Part I of this paper derives the thermal model used here. That paper is available [here][6] and its accompanying code available [here][7].
+
 This code has been developed at the Department of Engineering Science of the University of Oxford. 
 For information about our lithium-ion battery research, visit the [Howey Research Group][2] website.
 If you are interested in our energy research, check out our research group website [Energy and Power Group][3].
@@ -29,6 +35,8 @@ Code for Part I of this paper is available [here][4]
 [2]: http://users.ox.ac.uk/~engs1053/
 [3]: http://epg.eng.ox.ac.uk/
 [4]: https://github.com/robert-richardson/Spectral-Thermal-Model-2D
-
+[5]: http://www.sciencedirect.com/science/article/pii/S0378775316308163
+[6]: http://www.sciencedirect.com/science/article/pii/S0378775316308151
+[7]: https://github.com/robert-richardson/Spectral-Thermal-Model-2D
 
 
