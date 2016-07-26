@@ -59,7 +59,7 @@ The temperature is estimated using a thermal model corrected by electrochemical 
 The evolution of the temperature at three locations on the cell surface and core as predicted by the EKF is compared with
 experimental thermocouple measurements.
 
-
+The MainScript file can also be read using Matlab Publish (rather than simply running the file) to generate a PDF or html file summarizing the file code and outputs. A published html resulting from this process is already available in the [html](EKF-Impedance-2D-Temperature/html) subfolder.
 
 
 License
